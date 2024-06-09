@@ -19,11 +19,13 @@ I'm a passionate full-stack web developer and the founder of the WebProgrammingH
 - [LinkedIn](https://www.linkedin.com/in/edwin-anderson-392771308)
 - [Website](https://www.webprogramminghack.com)
 
-## About WebProgrammingHack Bootcamp
+## About Web Programming Hack Bootcamp
 
 At WebProgrammingHack, we are committed to empowering Indonesian people to secure web development jobs abroad and earn in dollars. Our comprehensive bootcamp covers essential front-end development skills, including HTML, CSS, JavaScript, and popular frameworks like React. We also provide career guidance and support to help our graduates succeed in the international job market.
 
 Join us and start your journey to becoming a highly skilled web developer capable of working anywhere in the world!
+
+[Web Programming Hack](https://www.webprogramminghack.com)
 
 ---
 
