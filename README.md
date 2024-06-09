@@ -1,7 +1,5 @@
 # Hi there, I'm Edwin Anderson 👋
 
-![Profile views](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/edwin-anderson.github-views/1)
-
 I'm a passionate full-stack web developer and the founder of the WebProgrammingHack bootcamp. I specialize in creating beautiful and functional web applications and am dedicated to helping Indonesian people secure jobs abroad as web developers. Here's a bit about me:
 
 - 🔭 I’m currently working on projects at Saint Technologies Indonesia.
