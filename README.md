@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack web developer and the founder of the WebProgrammingHack bootcamp. I specialize in creating beautiful and functional web applications and am dedicated to helping Indonesian people secure jobs abroad as web developers. Here's a bit about me:
 
-- 🔭 I’m currently working on projects at Saint Technologies Indonesia.
+- 🔭 I’m currently working on projects at Saint Technologies Indonesia. We accept projects from around the world.
 - 👯 I’m looking to collaborate on projects that enhance full-stack development skills and job readiness.
 - 💬 Ask me about full-stack web development, JavaScript frameworks, NodeJS, and how to secure international job opportunities.
 - 📫 How to reach me: edwinanderson.id@gmail.com
